@@ -1,5 +1,5 @@
  PROGRAM git_test
 
-PRINT*,'Test git'
+PRINT*,'Test git - new comment'
 
  PROGRAM git_test
